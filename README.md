@@ -1,4 +1,4 @@
-# What-Drives-the-Price-of-a-Car-
+# What-Drives-the-Price-of-a-Car-( MY JUPYTER NOTEBOOK(THE KERNEL IS DEAD I COULD NOT RECOVER MY JUPYTER. I CAN NOT EVEN OPEN IT NOW. Next Practiacl application planning to use Google Collab.)
 Used Car Price Prediction: Key Findings and Recommendations for Dealers
 Introduction
 This report summarizes an analysis of used car prices based on vehicle characteristics such as age, mileage, manufacturer, condition, and other factors. The goal is to help you, as used car dealers, better understand which vehicles hold value and how to optimize your inventory to meet customer demand and maximize profits.
